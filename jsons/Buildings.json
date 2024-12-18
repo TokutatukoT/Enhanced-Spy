@@ -1,25 +1,28 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Capital Intelligence center",
+		"gold": 999,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"uniques": ["Only available <when espionage is enabled>",
+			"New spies start with [3] level(s)",
+            		"Promotes all spies [2] time(s)",
+           		"Gain an extra spy",
+			"[-25]% enemy spy effectiveness [in this city]",
+			"[+100]% spy effectiveness [in all cities]",
+			"Notified of new Barbarian encampments"]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Hideout",
+		"replaces": "Monument",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Only available <when espionage is enabled>",
+			"Gain an extra spy",
+			"[-25]% enemy spy effectiveness [in this city]"]
 	}
 ]
