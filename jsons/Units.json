@@ -1,13 +1,37 @@
 [
 	{
 		"name": "Ninja",
-		"unitType": "Ranged",
-		"movement": 2,
-		"strength": 90,
+		"unitType": "Scout",
+		"movement": 3,
+		"sight": 4,
+		"strength": 20,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
+		"upgradeTo": "Agent",
+		"cost": 300,
 		"requiredTech": "Ballistics",
-		"promotions": ["Logistics","Accuracy I"]
+		"promotions": ["Accuracy I"],
+		"uniques": ["Invisible to non-adjacent units",
+			"Can see over obstacles",
+			"Withdraws before melee combat <with [50]% chance>",
+			"Self-destructs when attacking",
+			"Only available [Human player]",
+			"Never appears as a Barbarian unit"]
+	},
+	{
+		"name": "Agent",
+		"unitType": "Scout",
+		"movement": 4,
+		"sight": 4,
+		"strength": 40,
+		"cost": 500,
+		"requiredTech": "Broadcasting",
+		"promotions": ["Shock I"],
+		"uniques": ["Invisible to non-adjacent units",
+			"Can see over obstacles",
+			"Withdraws before melee combat <with [50]% chance>",
+			"Self-destructs when attacking",
+			"Only available [Human player]",
+			"Never appears as a Barbarian unit"]
 	}
 ]
