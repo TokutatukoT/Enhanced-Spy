@@ -8,13 +8,15 @@
             		"Promotes all spies [2] time(s)",
            		"Gain an extra spy", "Gain an extra spy", "Gain an extra spy",
 			"[+100]% spy effectiveness [in all cities]",
-			"Notified of new Barbarian encampments"]
+			"Notified of new Barbarian encampments",
+			"Only available [Human player]"]
 	},
 	{
 		"name": "Hideout",
 		"cost": 10,
 		"uniques": ["Only available <when espionage is enabled>",
 			"Gain an extra spy",
-			"[-100]% enemy spy effectiveness [in this city]"]
+			"[-100]% enemy spy effectiveness [in this city]",
+			"Only available [Human player]"]
 	}
 ]
