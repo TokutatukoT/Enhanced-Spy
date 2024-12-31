@@ -1,28 +1,20 @@
 [
 	{
 		"name": "Capital Intelligence center",
-		"gold": 999,
-		"cost": 99999999999,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"cost": 10,
 		"isNationalWonder": true,
 		"uniques": ["Only available <when espionage is enabled>",
 			"New spies start with [3] level(s)",
             		"Promotes all spies [2] time(s)",
-           		"Gain an extra spy",
-			"[-25]% enemy spy effectiveness [in this city]",
+           		"Gain an extra spy", "Gain an extra spy", "Gain an extra spy",
 			"[+100]% spy effectiveness [in all cities]",
 			"Notified of new Barbarian encampments"]
 	},
 	{
 		"name": "Hideout",
-		"replaces": "Monument",
-		"culture": 2,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
+		"cost": 10,
 		"uniques": ["Only available <when espionage is enabled>",
 			"Gain an extra spy",
-			"[-25]% enemy spy effectiveness [in this city]"]
+			"[-100]% enemy spy effectiveness [in this city]"]
 	}
 ]
