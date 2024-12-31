@@ -18,7 +18,7 @@
 			"Can see over obstacles",
 			"Withdraws before melee combat <with [50]% chance>",
 			"Self-destructs when attacking",
-			"Only available [Human player]",
+			"Only available <for [Human player] Civilizations>",
 			"Never appears as a Barbarian unit"]
 	},
 	{
@@ -37,7 +37,7 @@
 			"Can see over obstacles",
 			"Withdraws before melee combat <with [50]% chance>",
 			"Self-destructs when attacking",
-			"Only available [Human player]",
+			"Only available <for [Human player] Civilizations>",
 			"Never appears as a Barbarian unit"]
 	}
 ]
