@@ -9,7 +9,7 @@
            		"Gain an extra spy", "Gain an extra spy", "Gain an extra spy",
 			"[+100]% spy effectiveness [in all cities]",
 			"Notified of new Barbarian encampments",
-			"Only available [Human player]"]
+			"Only available <for [Human player] Civilizations>"]
 	},
 	{
 		"name": "Hideout",
@@ -17,6 +17,6 @@
 		"uniques": ["Only available <when espionage is enabled>",
 			"Gain an extra spy",
 			"[-100]% enemy spy effectiveness [in this city]",
-			"Only available [Human player]"]
+			"Only available <for [Human player] Civilizations>"]
 	}
 ]
