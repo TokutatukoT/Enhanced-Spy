@@ -4,12 +4,12 @@
 		"cost": 10,
 		"isNationalWonder": true,
 		"uniques": ["Only available <when espionage is enabled>",
-			"New spies start with [4] level(s)",
-            		"Promotes all spies [4] time(s)",
+			"New spies start with [9] level(s)",
+            		"Promotes all spies [9] time(s)",
            		"Gain an extra spy", "Gain an extra spy", "Gain an extra spy",
 			"[+100]% spy effectiveness [in all cities]",
 			"Notified of new Barbarian encampments",
-			"Only available <for [Human player] Civilizations>"]
+			"Only available <for [Human player] Civilizations><Hidden from player>"]
 	},
 	{
 		"name": "Hideout",
@@ -17,6 +17,6 @@
 		"uniques": ["Only available <when espionage is enabled>",
 			"Gain an extra spy",
 			"[-100]% enemy spy effectiveness [in this city]",
-			"Only available <for [Human player] Civilizations>"]
+			"Only available <for [Human player] Civilizations><Hidden from player>"]
 	}
 ]
