@@ -7,7 +7,7 @@
 			"New spies start with [99] level(s)",
             		"Promotes all spies [99] time(s)",
            		"Gain an extra spy", "Gain an extra spy", "Gain an extra spy", "Gain an extra spy", "Gain an extra spy",
-			"[+200]% spy effectiveness [in all cities]",
+			"[+1000]% spy effectiveness [in all cities]",
 			"Notified of new Barbarian encampments",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	},
@@ -16,7 +16,7 @@
 		"cost": 10,
 		"uniques": ["Only available <when espionage is enabled>",
 			"Gain an extra spy",
-			"[-100]% enemy spy effectiveness [in this city]",
+			"[-1000]% enemy spy effectiveness [in this city]",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	}
 ]
