@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Capital Intelligence center",
+		"name": "National Espionage center",
 		"cost": 10,
 		"isNationalWonder": true,
 		"uniques": ["Only available <when espionage is enabled>",
@@ -12,7 +12,7 @@
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	},
 	{
-		"name": "Hideout",
+		"name": "Spies' Hideout",
 		"cost": 10,
 		"uniques": ["Only available <when espionage is enabled>",
 			"Gain an extra spy",
