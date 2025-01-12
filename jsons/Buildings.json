@@ -1,7 +1,7 @@
 [
 	{
 		"name": "National Espionage center",
-		"cost": 10,
+		"cost": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <when espionage is enabled>",
 			"New spies start with [99] level(s)",
@@ -9,14 +9,16 @@
            		"Gain an extra spy", "Gain an extra spy", "Gain an extra spy", "Gain an extra spy", "Gain an extra spy",
 			"[+1000]% spy effectiveness [in all cities]",
 			"Notified of new Barbarian encampments",
+			"Destroyed when the city is captured",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	},
 	{
 		"name": "Spies' Hideout",
-		"cost": 10,
+		"cost": 1,
 		"uniques": ["Only available <when espionage is enabled>",
 			"Gain an extra spy",
 			"[-1000]% enemy spy effectiveness [in this city]",
+			"Destroyed when the city is captured",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	}
 ]
