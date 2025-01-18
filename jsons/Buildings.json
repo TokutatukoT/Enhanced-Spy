@@ -1,6 +1,6 @@
 [
 	{
-		"name": "National Espionage center",
+		"name": "National Espionage Center",
 		"cost": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <when espionage is enabled>",
