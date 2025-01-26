@@ -8,6 +8,7 @@
             		"Promotes all spies [99] time(s)",
            		"Gain an extra spy", "Gain an extra spy", "Gain an extra spy", "Gain an extra spy", "Gain an extra spy",
 			"[+1000]% spy effectiveness [in all cities]",
+			"Gain a free [Spies' Hideout] [in all cities]",
 			"Reveals the entire map",
 			"Notified of new Barbarian encampments",
 			"Destroyed when the city is captured",
@@ -19,6 +20,8 @@
 		"uniques": ["Only available <when espionage is enabled>",
 			"Gain an extra spy",
 			"[-1000]% enemy spy effectiveness [in this city]",
+			"Unbuildable",
+			"Cannot be purchased",
 			"Destroyed when the city is captured",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	}
