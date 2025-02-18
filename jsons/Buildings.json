@@ -29,7 +29,6 @@
 			"Can be purchased with [Gold] [in capital]",
 			"Moves to new capital when capital changes",
 			"Only available <when espionage is enabled>",
-			"[+10]% [Gold] from City-States",
 			"Military Units gifted from City-States start with [550] XP",
 			"Militaristic City-States grant units [5] times as fast when you are at war with a common nation",
 			"Gifts of Gold to City-States generate [+100]% more Influence",
@@ -49,9 +48,26 @@
 		]
 	},
 	{
+		"name": "Espionage Agency for Strategy",
+		"cost": 0,
+		"isNationalWonder": true,
+		"requiredBuilding": "National Espionage Agency",
+		"uniques": [
+			"Can be purchased with [Gold] [in capital]",
+			"Moves to new capital when capital changes",
+			"Only available <when espionage is enabled>",
+			"Rebel units may spawn <in [Enemy] cities><every [2] turns><when at war>",
+			"Rebel units may spawn <in [Enemy] cities><every [2] turns><when at war>",
+			"Enemy [All] units must spend [3] extra movement points when inside your territory",
+			"Destroyed when the city is captured",
+			"Only available <for [Human player] Civilizations><hidden from users>"
+		]
+	},
+	{
 		"name": "Spies' Hideout",
 		"cost": 0,
-		"uniques": ["Only available <when espionage is enabled>",
+		"uniques": [
+			"Only available <when espionage is enabled>",
 			"Gain an extra spy",
 			"[-1000]% enemy spy effectiveness [in this city]",
 			"Unbuildable",
